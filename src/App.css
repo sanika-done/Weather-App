@@ -1,13 +1,1 @@
-body{
-  margin:0px;
-}
-.linear-bg
-{
-background: linear-gradient(to right, #00c6ff, #0072ff);
-min-height:100vh ;
-}
-.linear-bg2
-{
-background: linear-gradient(to left, #00c6ff, #0072ff);
 
-}
