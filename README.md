@@ -1,53 +1,13 @@
-## Weather App
+# Weather App
 
-A modern and responsive Weather Application built using **React.js** and **Tailwind CSS**.  
-This app fetches real-time weather data using the **Open-Meteo API** and displays dynamic weather information with a clean and user-friendly interface.
+This is a simple weather application.  
+User can enter a city name and check the current weather.
 
----
-
-## 🚀 Features
-
--  Search weather by city name
--  Real-time temperature in Celsius
--  Wind speed details
--  Location-based weather data
--  Dynamic weather icons
--  Fully responsive design
--  Clean and modern UI
-
----
-
-## 🛠 Tech Stack
-
-- React.js
-- Tailwind CSS
-- Open-Meteo API
-- React Icons
-- Vite
-
----
-
-## 🌐 API Used
-
-This project uses the **Open-Meteo API**, a free weather API that does not require an API key.
-
-Geocoding API:
-https://geocoding-api.open-meteo.com
-
-Weather Forecast API:
-https://api.open-meteo.com
-
----
-
-## 📌 Project Highlights
-
-- No API key required
-- Fast and reliable weather data
-- Clean component structure
-- Dynamic UI updates
-- Beginner-friendly React project
-
----
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Weather API
 
 ## Output:-
 
